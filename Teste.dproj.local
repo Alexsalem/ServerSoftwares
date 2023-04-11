@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/09 10:58:57.000.572,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/09 12:59:39.000.218,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/20 12:09:35.000.357,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 11:27:27.000.984,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 11:53:35.000.015,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 12:39:31.000.518,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 15:19:12.000.081,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 13:32:45.000.656,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/27 17:05:28.000.300,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/31 20:38:34.000.273,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/08 17:15:07.000.391,=C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/08 17:17:56.000.588,C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit1.pas</Transaction>
+    <Transaction>2023/03/08 17:17:56.000.588,C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit1.dfm</Transaction>
+    <Transaction>2023/03/08 17:18:09.000.866,C:\Users\alex-\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Kisar Sistemas\Projetos\Teste_Tex\Teste_tex.dproj</Transaction>
+    <Transaction>2023/03/08 17:18:35.000.666,=D:\Kisar Sistemas\Projetos\Teste_Tex\DataModule.pas</Transaction>
+    <Transaction>2023/03/08 17:18:35.000.375,=D:\Kisar Sistemas\Projetos\Teste_Tex\Cadastro.pas</Transaction>
+    <Transaction>2023/03/08 17:18:36.000.015,=D:\Kisar Sistemas\Projetos\Teste_Tex\Menu.pas</Transaction>
+    <Transaction>2023/03/08 17:19:44.000.628,D:\Kisar Sistemas\Projetos\Teste_Tex\Unit1.pas=</Transaction>
+    <Transaction>2023/03/08 17:22:26.000.562,=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/03/08 17:22:47.000.667,D:\Kisar Sistemas\Projetos\Teste_Tex\Cliente.dfm=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.dfm</Transaction>
+    <Transaction>2023/03/08 17:22:47.000.667,D:\Kisar Sistemas\Projetos\Teste_Tex\Cliente.pas=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/03/09 12:33:43.000.923,=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/03/09 12:34:36.000.330,D:\Kisar Sistemas\Projetos\Teste_Tex\Usuarios.pas=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/03/09 12:34:36.000.330,D:\Kisar Sistemas\Projetos\Teste_Tex\Usuarios.dfm=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.dfm</Transaction>
+    <Transaction>2023/03/09 12:43:12.000.383,=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/03/09 12:43:54.000.175,D:\Kisar Sistemas\Projetos\Teste_Tex\Login.dfm=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.dfm</Transaction>
+    <Transaction>2023/03/09 12:43:54.000.175,D:\Kisar Sistemas\Projetos\Teste_Tex\Login.pas=D:\Kisar Sistemas\Projetos\Teste_Tex\Unit2.pas</Transaction>
+    <Transaction>2023/04/11 11:08:18.079,D:\Kisar Sistemas\Projetos\Teste_Tex - Copia\Teste.dproj=D:\Kisar Sistemas\Projetos\Teste_Tex - Copia\Teste_tex.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
